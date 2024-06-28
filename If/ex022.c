@@ -1,0 +1,13 @@
+#include<stdio.h>
+main()
+{
+	int y;
+	printf("êºóÔì¸óÕ:");
+	scanf("%d",&y);
+	if (y > 1989) {
+		printf("ïΩê¨ê∂Ç‹ÇÍ\n");
+	}
+	else {
+		printf("ïΩê¨ÇÊÇËëO\n");
+	}
+}
